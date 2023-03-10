@@ -1,0 +1,505 @@
+
+.container-fluid{
+    background-color: #F5F5F5;
+    Width:1440px;
+    Height:1024px;
+    border-radius: 35px;
+    padding-top: 24px;
+}
+
+.customers-list{
+    margin-left: 354.06px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    padding-top:37.08px ;
+    width: 1065px;
+    height: 981px;
+    background-color: #FFFFFF;
+    border-radius: 22px;
+}
+
+.customer-list-box{
+    width: 1009px;
+    height: 844px;
+    margin-left: 28px;
+    margin-right: 28.8px;
+    background-color: #F8F8F8;
+    border-radius: 30px;
+    padding-top: 28px;
+}
+
+.customer-list-box-header{
+    margin-left: 15px;
+    margin-right: 19.8px;
+    width: 976px;
+    height: 152.5px;
+}
+
+.customer-list-box-header-box1{
+    width: 976px;
+    height: 63px;
+    margin-left: 8px;
+    padding: 7px 10px 10px 10px;
+}
+
+.pending{
+    width: 127px;
+    height: 23px;
+    margin-top: 12px;
+}
+
+.pending-txt{
+    width: 63px;
+    height: 23px;
+    padding-bottom: 8px;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.pending-badge{
+    margin-left: 14.94px;
+    width: 35px;
+    height: 18px;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 1.5px;
+    font-weight: 500;
+    background-color: rgba(47, 128, 237, 0.2);
+    color: #2F80ED;
+}
+
+.canceled{
+    width: 220px;
+    height: 43px;
+    padding: 10px;
+}
+
+.canceled-txt{
+    margin-right: 10px;
+    width: 78px;
+    height: 23px;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 400;
+    opacity: .7;
+}
+
+.canceled-badge{
+    width: 30px;
+    height: 18px;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 1.5px;
+    font-weight: 500;
+    background-color: rgba(65, 74, 97, 0.2);
+    color: #333333;
+    opacity: .5;
+}
+
+.customer-list-box-header-box1-rightside{
+    width: 204px;
+    height: 40px;
+    padding: 10px;
+}
+
+.showlist-txt{
+
+    font-size: 13px;
+    font-weight: 400;
+    opacity: .5;
+}
+
+.progress-bars{
+    margin-top: 3px;
+    height: 2px; 
+    height: 3px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, .3);
+    margin-left: 20px;
+    margin-right: 15px;
+}
+
+.progress-bars-item{
+    background-color: #2F80ED;
+    width: 117.6px;
+    height: 3px;
+}
+
+.customer-list-box-header-box2{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: 89.5px;
+    width: 985px;
+
+}
+
+.customer-list-box-header-box2-subbox{
+    background: rgba(47, 128, 237, 0.05);
+    border-radius: 80px;
+    width: 973px;
+    height: 59.5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.customer-list-box-header-box2-subbox input{
+    width: 346px;
+    height: 39px;
+    border-radius: 80px;
+    margin-left: 10px;
+}
+
+.input-img{
+    width: 17.5;
+    height: 17.5;
+    position: absolute;
+    top: 195px;
+    left: 434px;
+}
+
+.customer-list-box-header-box2-subbox-right-box1{
+    border-radius: 80px;
+    width: 68px;
+    height: 29px;
+    background-color: #ffffff;
+}
+
+.customer-list-box-header-box2-subbox-right-box1-img-1-father{
+    background: rgba(47, 128, 237, 0.2);
+    width: 32.5px;
+    height: 29px;
+    border-top-left-radius: 80px;
+    border-bottom-left-radius: 80px;
+}
+
+.customer-list-box-header-box2-subbox-right-box1-img-1{
+    width: 50%;
+    width: 18.5px;
+    height: 15px;
+    margin-left: 7px;
+    
+}
+
+.customer-list-box-header-box2-subbox-right-box1-img-2-father{
+    width: 32px;
+    height: 29px;
+    margin-left: 7px;
+}
+
+.customer-list-box-header-box2-subbox-right-box1-img-2{
+    width: 18px;
+    height: 18px;
+}
+
+.customer-list-box-header-box2-subbox-right-box2{
+    width: 82px;
+    height: 29px;
+    margin-left: 22.92px;
+    border-radius: 80px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    margin-right: 5px;
+}
+
+.customer-list-box-header-box2-subbox-right-box2-img-father{
+    width: 32px;
+    height: 23px;
+}
+
+.customer-list-box-header-box2-subbox-right-box2-img{
+    width:18px;
+    height: 12px;
+    margin-left: 7px;
+}
+
+.customer-list-box-header-box2-subbox-right-box2-txt-father{
+    width: 46px;
+    height: 29px;
+}
+
+.customer-list-box-header-box2-subbox-right-box2-txt{
+    width: 32px;
+    height: 20px;
+    font-size: 13px;
+    font-weight: 400;
+    padding-top: 5px;
+    padding-left: 7px;
+}
+
+.tablebox{
+    width: 975px;
+    height: 648px;
+    margin-left: 15.5px;
+    margin-right: 19px;
+    margin-bottom: 15px;
+}
+
+
+table thead tr{
+    background: rgba(47, 128, 237, 0.1);
+    border-radius: 10px;
+}
+
+table thead tr th{
+    font-weight: 400;
+    font-size: 15px;
+    padding: 10px 0;
+}
+
+table tbody tr td{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.devider{
+    border-bottom:1px solid #ffffff;
+    width: 900px;
+    height: 63px;
+    vertical-align: baseline;
+}
+
+table div{
+    vertical-align: baseline;
+    height: 23px;
+    padding-top: 6px;
+}
+
+.pagination-box{
+    width: 297px;
+    height: 47px;
+    position: absolute;
+    top: 946px;
+    left: 1125px;
+}
+
+.pagination-sub-boxs{
+    width: 47px;
+    height: 47px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 15.5px;
+}
+
+.pagination-1{
+    background: rgba(47, 128, 237, 0.2);
+    border: 2px solid rgba(47, 128, 237, 0.2);
+}
+
+.pagination-2{
+    border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.sidebar{
+    margin-left: 0;
+    position: absolute;
+    left:0;
+    top: 74.18px;
+}
+
+.profile-box{
+    width: 248px;
+    height: 57px;
+    margin-left: 46.2px;
+}
+
+.profile-box-txt{
+    width: 122px;
+    height: 48px;
+    margin-left: 22.8px;
+}
+
+.profile-box-txt-top{
+    width: 122px;
+    height: 27px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.profile-box-txt-bottom{
+    width: 121px;
+    height: 17px;
+    font-size: 10px;
+    color: #333333;
+    opacity: .6;
+}
+
+.arrow-icon{
+    margin-left: 22.9px;
+}
+
+.dashboard{
+    margin-top: 62.5px;
+    margin-left: 52.5px;
+    width: 127px;
+    height: 24px;
+}
+
+.dashboard-icon{
+    width: 24px;
+    height: 24px;
+    margin-right: 17.9px;
+    vertical-align: baseline;
+}
+
+.dashboard-icon img{
+    width: 18px;
+    height: 18px;
+}
+
+.dashboard-txt{
+    width: 85px;
+    height: 23px;
+    font-size: 15px;
+    font-weight: 400;
+    opacity: .9;
+    padding-top: 3px;
+}
+
+.task-box{
+    margin-top: 39.7px;
+    margin-left: 52.7px;
+    
+}
+
+.task-icon{
+    width: 20px;
+    height: 20px;
+}
+
+.task-txt{
+    width: 35px;
+    height: 23px;
+    margin-left: 19.9px;
+    font-size: 15px;
+    font-weight: 400;
+    opacity: .9;
+    padding-top: 4px;
+}
+
+.customers{
+    background-color:rgb(47, 128, 237,.1);
+    margin-top: 15.2px;
+    margin-left: 28.8px;
+    padding: 14px 24px;
+    border-radius: 50px;
+    border: 1px rgb(47, 128, 237,.8) solid;
+}
+
+.customers-icon{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+.customers-txt{
+    font-size: 15px;
+    font-weight: 500;
+    color: #2F80ED;
+    margin-left: 19px;
+}
+
+.customers-arrow{
+    margin-left: 88px;
+}
+
+
+.allbox{
+    margin-left: 60px;
+    margin-top: 17px;
+}
+
+.all-border{
+    height: 66px;
+    width: 6px;
+    background-color:rgba(213, 201, 201,.4);
+    border-radius: 15px;
+}
+
+.all-border-blue{
+    margin-top: 36px;
+    height: 29px;
+    background-color: #2F80ED;
+    border-radius: 15px;
+}
+
+.allbox-top-txt{
+    width: 18px;
+    height: 23px;
+    margin-left: 31px;
+}
+
+.allbox-bottom-txt{
+    width: 135px;
+    height: 23px;
+    margin-left: 31.9px;
+    margin-top: 18.6px;
+    color: #2F80ED;
+}
+
+.chats-box{
+    margin-left: 53.3px;
+    margin-top: 39px;
+    width: 86px;
+    height: 23px;
+}
+
+.chats-icon{
+    width: 20px;
+    height: 20px;
+    margin-right: 19px;
+}
+
+.chats-txt{
+    width: 46px;
+    height: 23px;
+    font-size: 15px;
+    font-weight: 400;
+    opacity: .9;
+    margin-top: 1.5px;
+}
+
+.Disputes-box{
+    width: 106px;
+    height: 23px;
+    margin-top: 39.7px;
+    margin-left: 53.4px;
+}
+
+.Disputes-icon{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 4px;
+}
+
+.Disputes-txt{
+    width: 66px;
+    height: 23px;
+    margin-left: 19.8px;
+}
+
+.dispute-underline{
+    border-bottom: #000000 1px solid;
+    margin-left: 53.6px;
+    margin-top: 49px;
+    height: 0px;
+    opacity: .2;
+}
+
+.setting-box{
+    width: 101.4px;
+    height: 23px;
+    margin-left: 51px;
+    margin-top: 44px;
+}
+
+.setting-icon{
+    width: 20px;
+    height: 20px;
+}
+
+.setting-txt{
+    width: 62px;
+    height: 23px;
+    margin-left: 19.9px;
+}
